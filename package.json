@@ -1,0 +1,20 @@
+{
+  "name": "chatbot-backend",
+  "version": "1.0.0",
+  "description": "Node.js Express-based chatbot backend for financial literacy",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "@google-ai/generativelanguage": "^3.2.0",
+    "@google/generative-ai": "^0.8.0",
+    "@pinecone-database/pinecone": "^0.0.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "google-auth-library": "^10.1.0",
+    "node-nlp": "^4.23.1"
+  }
+}

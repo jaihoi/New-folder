@@ -13,11 +13,11 @@
       margin: 2rem;
       color: #333;
     }
-
+,
     h1, h2 {
       color: #0d6efd;
     }
-
+,
     .intro {
       background: linear-gradient(135deg, #e0f7fa, #fce4ec);
       border-left: 6px solid #0d6efd;
@@ -25,16 +25,16 @@
       border-radius: 8px;
       margin-bottom: 2rem;
     }
-
+,
     a {
       color: #0d6efd;
       text-decoration: none;
     }
-
+,
     a:hover {
       text-decoration: underline;
     }
-
+,
     .cta {
       font-weight: bold;
       background: #fff3cd;

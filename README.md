@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Page!
 
-> Hello! I’m **Nishi Agrawal** — a passionate tech enthusiast, creative designer, and lifelong learner. 👩‍💻
+> Hello! I’m * — a passionate tech enthusiast, creative designer, and lifelong learner. 👩‍💻
 >
 > This page is a glimpse into my journey of building impactful software, diving into AI/ML, and designing meaningful experiences for the digital world. ✨
 
@@ -49,4 +49,4 @@
 
 ---
 
-<p align="center">Made with ❤️ by Nishi</p>
+<p align="center">Made with ❤️ by </p>
